@@ -1,0 +1,2 @@
+Enter a Number : 
+Factorial of 8 is 40320
